@@ -1,4 +1,4 @@
-package pe.devpicon.android.expandtextlib
+package pe.devpicon.android.lib.expandtext
 
 import android.animation.LayoutTransition
 import android.graphics.Color

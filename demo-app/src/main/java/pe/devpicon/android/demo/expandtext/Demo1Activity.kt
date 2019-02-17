@@ -1,11 +1,12 @@
-package pe.devpicon.android.expandtextdemo
+package pe.devpicon.android.demo.expandtext
 
 import android.os.Build
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import android.view.WindowManager
 import kotlinx.android.synthetic.main.activity_demo1.*
-import pe.devpicon.android.expandtextlib.ExpandText
+import pe.devpicon.android.expandtextdemo.R
+import pe.devpicon.android.lib.expandtext.ExpandText
 
 
 class Demo1Activity : AppCompatActivity() {
