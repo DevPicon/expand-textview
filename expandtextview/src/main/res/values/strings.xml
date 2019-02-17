@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">more_less_textview</string>
+    <string name="more">Ver más</string>
+    <string name="less">Ver menos</string>
+</resources>
