@@ -40,10 +40,16 @@ repositories {
 }
 
 publish {
+
+    def groupProjectID = 'pe.devpicon.android.lib'
+    def artifactProjectID = 'expandtext'
+    def publishVersionID = '1.0.0'
+
     userOrg = 'devpicon'
-    groupId = 'pe.devpicon'
-    artifactId = 'expandtext-release'
-    publishVersion = '1.0.0'
+    repoName = 'expand-textview'
+    groupId = groupProjectID
+    artifactId = artifactProjectID
+    publishVersion = publishVersionID
     desc = 'This library helps you to make a textview expandable'
     website = 'https://github.com/devpicon/expand-textview'
 }
